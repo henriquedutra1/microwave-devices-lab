@@ -8,7 +8,7 @@ The assignments cover the design, simulation and analysis of passive microwave c
 
 | Assignment | Topic | What it shows |
 |---|---|---|
-| [Microstrip transmission line and stub matching](Microstrip%20Transmission%20Line%20and%20Stub%20Matching) | 50 Ω microstrip line on FR-4 and single-stub impedance matching at 2 GHz | Line design, S-parameters with and without dielectric loss, reflection from mismatched loads, and open and short-circuit stub matching of a complex load |
+| [Microstrip transmission line and stub matching](Microstrip%20transmission%20line%20and%20stub%20matching) | 50 Ω microstrip line on FR-4 and single-stub impedance matching at 2 GHz | Line design, S-parameters with and without dielectric loss, reflection from mismatched loads, and open and short-circuit stub matching of a complex load |
 
 More assignments will be added over time.
 
