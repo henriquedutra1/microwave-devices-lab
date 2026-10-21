@@ -91,10 +91,12 @@ The full report, with the calculations, field animations, Smith chart plots and 
 Microstrip Transmission Line and Stub Matching/
 ├── README.md
 └── results/
-    ├── homework_1_report.pdf
+    ├── report.pdf
     ├── open_stub_layout_fields.png
     ├── s11_open_stub.png
     └── s11_short_stub.png
+    └── animation.png
+    └── short-circuit.png
 ```
 
 The Ansys HFSS project files are not included. The report documents the model setup, the materials and the results.
