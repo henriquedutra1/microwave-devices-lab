@@ -1,5 +1,8 @@
-%% Microstrip transmission line design
-% Width and length of a 50 ohm microstrip line on FR-4 (Homework 1).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%             Microstrip transmission line design          %%
+%%                       Henrique Dutra                     %%            
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Width and length of a 50 ohm microstrip line on FR-4.
 %
 % Design equations (valid for w/h <= 2):
 %   A    = Z0/60 * sqrt((er+1)/2) + (er-1)/(er+1) * (0.23 + 0.11/er)
