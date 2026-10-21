@@ -42,7 +42,7 @@ The line is designed with analytical formulas and MATLAB, simulated in Ansys HFS
 | Lossless FR-4, two ports | S21 ≈ 0 dB, S11 and S22 ≈ −41 dB |
 | Lossy FR-4, two ports | S21 ≈ −0.75 dB, S11 and S22 ≈ −40 dB |
 | 50 Ω load | S11 = −28 dB |
-| 100 Ω load | S11 ≈ −11 dB (theory: |Γ| = 0.333, −9.54 dB) |
+| 100 Ω load | S11 ≈ −11 dB (theory: Γ = 0.333, −9.54 dB) |
 | 60 − j80 Ω load (60 Ω in series with about 1 pF) | S11 = −4.6 dB (theory: −4.54 dB) |
 | Complex load with open-circuit stub | S11 = −34.4 dB, −10 dB bandwidth of 320 MHz (1.88 GHz to 2.20 GHz) |
 | Complex load with short-circuit stub | S11 = −32 dB, −10 dB bandwidth of 700 MHz (1.73 GHz to 2.43 GHz) |
