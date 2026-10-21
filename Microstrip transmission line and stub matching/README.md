@@ -31,6 +31,10 @@ The line is designed with analytical formulas and MATLAB, simulated in Ansys HFS
 | Guided wavelength, λg | 83 mm |
 | Line length | 124.5 mm (1.5 λg) |
 
+<p align="center">
+  <img src="results/animation.png" width="600">
+</p>
+
 ## Results
 
 | Case | Result at 2 GHz |
@@ -65,6 +69,12 @@ Read from the Smith chart, with the stub placed at a distance d from the load:
   <img src="results/s11_open_stub.png" width="700">
 </p>
 
+### Matching network and fields (short-circuit stub)
+
+<p align="center">
+  <img src="results/short-circuit.png" width="700">
+</p>
+
 ### S11 with the short-circuit stub
 
 <p align="center">
@@ -73,7 +83,7 @@ Read from the Smith chart, with the stub placed at a distance d from the load:
 
 Both stubs bring S11 well below −30 dB at 2 GHz. The short-circuit stub gives a wider −10 dB bandwidth (700 MHz against 320 MHz), which makes it the better option when the circuit has to work over a range of frequencies around the center.
 
-The full report, with the calculations, field animations, Smith chart plots and the analysis of each item, is in [`results/homework_1_report.pdf`](results/homework_1_report.pdf).
+The full report, with the calculations, field animations, Smith chart plots and the analysis of each item, is in [`results/report.pdf`](results/report.pdf).
 
 ## Repository contents
 
